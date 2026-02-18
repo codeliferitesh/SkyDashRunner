@@ -1,6 +1,6 @@
 # 🌟 SkyDash Runner
 
-![SkyDash Runner Banner](banner.png)  <!-- Optional: Add a banner image -->
+![SkyDash Runner Banner](Banner.png)  <!-- Optional: Add a banner image -->
 
 
 ---
